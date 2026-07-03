@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manas-cpu
-- 👀 I’m interested in ...DevOps
-- 🌱 I’m currently learning ...DevOps Engineering Mnaagement
+- 👀 I’m a Startup founder , developing sales product solutions
+- 🌱 I’m currently learning ...AI consulting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
